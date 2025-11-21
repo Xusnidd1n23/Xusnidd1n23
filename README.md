@@ -2,8 +2,7 @@
 <div align="center">
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=f6541
-&center=true&vCenter=true&width=600&lines=Hello!+I'm+Xusniddin)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=f6541&center=true&vCenter=true&width=600&lines=Hello!+I'm+Xusniddin)
 
 </div>
 

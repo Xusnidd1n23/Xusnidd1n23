@@ -3,8 +3,7 @@
 <div align="center">
 
 
-<p align="center"> <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Yomg'ir" width="100%"/></p>
-
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=f6541&center=true&vCenter=true&width=600&lines=Hello!+I'm+Xusniddin)
 

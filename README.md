@@ -3,7 +3,7 @@
   
 <img alt="Coder GIF" height=250 width=400 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Xusniddin!;IT+Student;+in+Programming+and+IT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Xusniddin!;IT+Student;+and+Programming+" alt="Typing SVG" />
 </div>
 
 ## Technologies & Skills
